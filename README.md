@@ -71,7 +71,6 @@ After playtesting, we implemented three major refinements to improve clarity, im
 | `assets/images/wd_key_penguin.png`| Manually customized – Generated on ChatGPT.com |
 | `assets/images/as_key_penguin.png`| Manually customized – Generated on ChatGPT.com |
 | `assets/images/sd_key_penguin.png`| Manually customized – Generated on ChatGPT.com |
-| `assets/images/bigger_box.png`| Generated on ChatGPT.com |
 | `assets/images/enter_button_sprite.png`| Manually customized – Generated on ChatGPT.com |
 | `assets/images/lock_break.png`| Manually customized – Generated on ChatGPT.com |
 | `assets/images/penguin_climb.png`| Manually customized – Generated on ChatGPT.com |
