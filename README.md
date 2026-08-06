@@ -28,9 +28,9 @@ After playtesting, we implemented three major refinements to improve clarity, im
 | File                                    | Source                                                         |
 | --------------------------------------- | -------------------------------------------------------------- |
     
-| `assets/images/bigger_box.png`          | Box card tutorial UI asset – ChatGPT.com                   |
-| `assets/images/w_key_penguin.png`       | Penguin W Key - ChatGPT.com                                |
-| `assets/images/d_key_penguin.png`       | Penguin D Key - ChatGPT.com                                |
+| `assets/images/bigger_box.png`          | Box card tutorial UI asset – ChatGPT.com                   
+| `assets/images/w_key_penguin.png`       | Penguin W Key - ChatGPT.com                                
+| `assets/images/d_key_penguin.png`       | Penguin D Key - ChatGPT.com                                
 | `assets/images/a_key_penguin.png`       | Penguin A Key - ChatGPT.com                                |
 | `assets/images/s_key_penguin.png`       | Penguin S Key - ChatGPT.com                                |
 | `assets/images/tutorial_background.png` | Tutorial background screen asset – ChatGPT.com             |
