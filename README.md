@@ -28,46 +28,46 @@ After playtesting, we implemented three major refinements to improve clarity, im
 | File                                    | Source                                                         |
 | --------------------------------------- | -------------------------------------------------------------- |
     
-| `assets/images/bigger_box.png`          | Box card tutorial UI asset – ChatGPT.com                   [2] |
-| `assets/images/w_key_penguin.png`       | Penguin W Key - ChatGPT.com                                [4] |
-| `assets/images/d_key_penguin.png`       | Penguin D Key - ChatGPT.com                                [4] |
-| `assets/images/a_key_penguin.png`       | Penguin A Key - ChatGPT.com                                [4] |
-| `assets/images/s_key_penguin.png`       | Penguin S Key - ChatGPT.com                                [4] |
-| `assets/images/tutorial_background.png` | Tutorial background screen asset – ChatGPT.com             [2] |
-| `assets/images/fish_item.png`           | Fish sprite sheet - ChatGPT.com                            [1] |
-| `assets/images/fish_outline.png`        | Fish sprite sheet - ChatGPT.com                            [1] |
-| `assets/images/spike_tall.png`          | Spike obstacle asset – ChatGPT.com                         [3] |
-| `assets/fonts/jersey10.ttf`             | Jersey10-Regular - Google Fonts.com                        [5] |
-| `assets/images/check_icon.png`          | Iterated game assets - ChatGPT.com                         [1] |
-| `assets/images/fish.png`                | Fish sprite sheet - ChatGPT.com                            [1] |
-| `assets/images/goat_spritesheet.png`    | Goat sprite sheet - ChatGPT.com                            [6] |
-| `assets/images/golden_star.png`         | Iterated game assets - ChatGPT.com                         [2] |
-| `assets/images/level_picker.JPG`        | Iterated game assets - ChatGPT.com                         [2] |
-| `assets/images/lock_icon.png`           | Iterated game assets - ChatGPT.com                         [2] |
-| `assets/images/loss_screen.png`         | Screens, spike and penguin sprite sheets - ChatGPT.com     [3] |
-| `assets/images/penguin_stomp.png`       | Screens, spike and penguin sprite sheets - ChatGPT.com     [3] |
-| `assets/images/spike_double.png`        | Screens, spike and penguin sprite sheets - ChatGPT.com     [3] |
-| `assets/images/spike_mid.png`           | Screens, spike and penguin sprite sheets - ChatGPT.com     [3] |
-| `assets/images/spike_small.png`         | Screens, spike and penguin sprite sheets - ChatGPT.com     [3] |
-| `assets/images/star_outline.png`        | Iterated game assets - ChatGPT.com                         [2] |
-| `assets/images/penguin_front.png`       | Screens, spike and penguin sprite sheets - ChatGPT.com     [3] |
-| `assets/images/win_screen.png`          | Screens, spike and penguin sprite sheets - ChatGPT.com     [3] |
-| `assets/images/avalanche_card.png`| Card Assets - ChatGPT.com [7]|
-| `assets/images/avalanche_card2.png`| Card Assets - ChatGPT.com [8]|
-| `assets/images/avalanche_card3.png`| Card Assets - ChatGPT.com [9]|
-| `assets/images/crevices_card.png`| Card Assets - ChatGPT.com [9]|
-| `assets/images/Foundpopup_card.png`| Card Assets - ChatGPT.com [8]|
-| `assets/images/stopsign_card.png`| Card Assets - ChatGPT.com [9]|
-| `assets/images/hurry_card.png`| Card Assets - ChatGPT.com [8]|
-| `assets/images/instruction_direction_card.png`| Card Assets - ChatGPT.com [8]|
-| `assets/images/pop_up_card.png`| Card Assets - ChatGPT.com [8]|
-| `assets/images/space_dialoguecard.png`| Card Assets - ChatGPT.com [8]|
-| `assets/images/title_screen.png`| Title Screen - ChatGPT.com [8]|
-| `assets/images/transition_page.png`| Transition Screen - ChatGPT.com [8]|
-| `assets/videos/goat_death.mp4`| Transition Video - ChatGPT.com [10]|
-| `assets/videos/crevice_death.mp4`| Transition Video - ChatGPT.com [10]|
-| `assets/videos/time_death.mp4`| Transition Video - ChatGPT.com [11]|
-| `assets/images/crevice.png`| Crevice image - ChatGPT.com [3]|
+| `assets/images/bigger_box.png`          | Box card tutorial UI asset – ChatGPT.com                   |
+| `assets/images/w_key_penguin.png`       | Penguin W Key - ChatGPT.com                                |
+| `assets/images/d_key_penguin.png`       | Penguin D Key - ChatGPT.com                                |
+| `assets/images/a_key_penguin.png`       | Penguin A Key - ChatGPT.com                                |
+| `assets/images/s_key_penguin.png`       | Penguin S Key - ChatGPT.com                                |
+| `assets/images/tutorial_background.png` | Tutorial background screen asset – ChatGPT.com             |
+| `assets/images/fish_item.png`           | Fish sprite sheet - ChatGPT.com                            |
+| `assets/images/fish_outline.png`        | Fish sprite sheet - ChatGPT.com                            |
+| `assets/images/spike_tall.png`          | Spike obstacle asset – ChatGPT.com                         |
+| `assets/fonts/jersey10.ttf`             | Jersey10-Regular - Google Fonts.com [1]                    |
+| `assets/images/check_icon.png`          | Iterated game assets - ChatGPT.com                         |
+| `assets/images/fish.png`                | Fish sprite sheet - ChatGPT.com                            |
+| `assets/images/goat_spritesheet.png`    | Goat sprite sheet - ChatGPT.com                            |
+| `assets/images/golden_star.png`         | Iterated game assets - ChatGPT.com                         |
+| `assets/images/level_picker.JPG`        | Iterated game assets - ChatGPT.com                         |
+| `assets/images/lock_icon.png`           | Iterated game assets - ChatGPT.com                         |
+| `assets/images/loss_screen.png`         | Screens, spike and penguin sprite sheets - ChatGPT.com     |
+| `assets/images/penguin_stomp.png`       | Screens, spike and penguin sprite sheets - ChatGPT.com     |
+| `assets/images/spike_double.png`        | Screens, spike and penguin sprite sheets - ChatGPT.com     |
+| `assets/images/spike_mid.png`           | Screens, spike and penguin sprite sheets - ChatGPT.com     |
+| `assets/images/spike_small.png`         | Screens, spike and penguin sprite sheets - ChatGPT.com     |
+| `assets/images/star_outline.png`        | Iterated game assets - ChatGPT.com                         |
+| `assets/images/penguin_front.png`       | Screens, spike and penguin sprite sheets - ChatGPT.com     |
+| `assets/images/win_screen.png`          | Screens, spike and penguin sprite sheets - ChatGPT.com     |
+| `assets/images/avalanche_card.png`| Card Assets - ChatGPT.com |
+| `assets/images/avalanche_card2.png`| Card Assets - ChatGPT.com |
+| `assets/images/avalanche_card3.png`| Card Assets - ChatGPT.com |
+| `assets/images/crevices_card.png`| Card Assets - ChatGPT.com |
+| `assets/images/Foundpopup_card.png`| Card Assets - ChatGPT.com |
+| `assets/images/stopsign_card.png`| Card Assets - ChatGPT.com |
+| `assets/images/hurry_card.png`| Card Assets - ChatGPT.com |
+| `assets/images/instruction_direction_card.png`| Card Assets - ChatGPT.com |
+| `assets/images/pop_up_card.png`| Card Assets - ChatGPT.com |
+| `assets/images/space_dialoguecard.png`| Card Assets - ChatGPT.com |
+| `assets/images/title_screen.png`| Title Screen - ChatGPT.com |
+| `assets/images/transition_page.png`| Transition Screen - ChatGPT.com |
+| `assets/videos/goat_death.mp4`| Transition Video - ChatGPT.com |
+| `assets/videos/crevice_death.mp4`| Transition Video - ChatGPT.com |
+| `assets/videos/time_death.mp4`| Transition Video - ChatGPT.com |
+| `assets/images/crevice.png`| Crevice image - ChatGPT.com |
 | `assets/images/aw_key_penguin.png`| Manually customized – Generated on ChatGPT.com |
 | `assets/images/wd_key_penguin.png`| Manually customized – Generated on ChatGPT.com |
 | `assets/images/as_key_penguin.png`| Manually customized – Generated on ChatGPT.com |
@@ -84,34 +84,4 @@ After playtesting, we implemented three major refinements to improve clarity, im
 
 # References
 [1]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved July 7, 2026 from https://chatgpt.com/share/6a4d2a8e-3b80-83ea-9e1e-42f38b3ff40d
-
-[2]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved July 7, 2026 from https://chatgpt.com/share/6a4d2a01-fa68-83ea-a0d1-a8b3755555b9?fbclid=PARlRTSAS6CeRwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp1dTKxhlNb_zbFoWwJNIeJyuHMhG3xqLByyhrMc1Unz1-spbgXtD02aGA9SN_aem_-_ATcUBkSPnsy1jTo95fxQ
-
-[3]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved July 7, 2026 from https://chatgpt.com/share/6a38b0a0-d964-83ea-b273-7854ec0e107f
-
-[4]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved July 8, 2026 from https://chatgpt.com/share/6a4d9282-54f4-83ea-8cdb-44b255c41a7b
-
-[5]
 N/A. 2026. Jersey 10 - Google Fonts. Google Fonts. Retrieved July 8, 2026 from https://fonts.google.com/specimen/Jersey+10?query=pixel&preview.script=Latn
-
-[6]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved July 22, 2026 from https://chatgpt.com/share/6a58dada-d520-83ea-8fbb-c0df75a1c8e2
-
-[7]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved July 27, 2026 from https://chatgpt.com/share/6a74d02e-7948-83ea-8b04-f47dce62228a
-
-[8]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved July 12, 2026 from https://chatgpt.com/share/6a67eafb-07a8-83ea-b230-e15343be5d70
-
-[9]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved July 28, 2026 from https://chatgpt.com/share/6a6d2c1f-204c-83ea-a36a-8885f7181c1e
-
-[10]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved August 3, 2026 from https://chatgpt.com/share/6a70e8d1-add8-83ea-a59c-4afe20ac60c5
-
-[11]
-N/A. 2026. Check out this chat. ChatGPT. Retrieved August 3, 2026 from https://chatgpt.com/share/6a7164a8-4a20-83ea-b3b1-919ce8a91233
