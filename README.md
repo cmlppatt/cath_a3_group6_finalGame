@@ -15,9 +15,15 @@ Players begin by selecting Start, which triggers the opening story panels before
 **Post-Playtest:** 3 changes made based on playtesting:
 After playtesting, we implemented three major refinements to improve clarity, immersion, and accessibility. First, we added illustrated story panels to introduce the penguin’s descent and provide narrative context before gameplay begins. Second, we integrated a proximity‑based volume system that adjusts audio intensity based on distance to hazards, giving players additional sensory feedback to compensate for restricted visibility. Third, we refined the directional flashlight by making its animation less harsh, softening the edges and smoothing transitions to reduce visual strain while maintaining the challenge of limited sight. These updates strengthened the game’s atmosphere, improved accessibility, and created a more intuitive and polished player experience.
 
+**Changes after Final Showcase**
+- No "Im Here" sound after collecting Miss Shelby during stomp
+- Added finish line at the top of the level for clear end affordance
+- Changed fish collected card from "Get to the safety zone" to "get to the bottom of the mountain"
+- Added missing loading screen between level 2 and level 3
+- Removed level 3 goat crossing card (kept the sign) to reduce repeating information
+- Add and tweak the button sound to the lose screen
 
 # Assets
-
 
 | File                                    | Source                                                         |
 | --------------------------------------- | -------------------------------------------------------------- |
